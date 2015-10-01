@@ -1,1 +1,1 @@
-SUBDIRS = libeuler libprimes
+SUBDIRS = libeuler libnumbers libprimes
